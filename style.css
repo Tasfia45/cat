@@ -1,0 +1,17 @@
+h1{
+  background-image: url(download\ \(2\).jfif);
+  background-repeat: no-repeat; 
+  margin: auto;
+ height: 200px;
+  
+  background-position:  top center;
+  font-size: 20px;
+  border: 8px solid black;
+  background-size: cover;
+  font-style: italic;
+}
+ul{
+ font-size: 20px;
+ text-shadow: 10px red;
+ text-decoration: dotted;
+}
